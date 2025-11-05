@@ -13,8 +13,6 @@ This exam project requires you to build a small React Native application using *
    cd student-exam
    ```
 
-````
-
 2. **Install all dependencies**
 
    ```bash
@@ -47,4 +45,3 @@ This exam project requires you to build a small React Native application using *
 4. **Important**
 
    - I will be grading this **in class**
-````
