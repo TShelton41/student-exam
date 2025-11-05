@@ -13,19 +13,6 @@ This exam project requires you to build a small React Native application using *
    cd student-exam
    ```
 
-## Install Dependencies
-
-`npm install`
-
-## You must implement the following:
-
-1. **Clone the repo**
-
-   ```bash
-   git clone https://github.com/TShelton41/student-exam.git
-   cd student-exam
-   ```
-
 ````
 
 2. **Install all dependencies**
