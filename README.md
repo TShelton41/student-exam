@@ -34,6 +34,7 @@ This exam project requires you to build a small React Native application using *
    - **Images displayed on a screen**
 
      - Must include **at least one local asset image**
+     - There is one provided for you in the assets folder.
      - Remote image optional
 
    - Navigate from **Home → Detail** using Expo Router
