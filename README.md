@@ -29,7 +29,7 @@ This exam project requires you to build a small React Native application using *
 
    - A **detail screen** (outside the tabs group) located directly under the `app` directory
 
-     > Example: `app/detail.tsx`
+     > Example: `app/detail.jsx`
 
    - **Images displayed on a screen**
 
